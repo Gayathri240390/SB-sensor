@@ -1,12 +1,17 @@
 # 1. Product Requirements Document (PRD)
 
-## Document Info
-| Field | Value |
-|-------|-------|
-| Project name | _____ |
-| Document owner | Ossian |
-| Version | 0.1 |
-| Date | _____ |
-| Status | Draft / In review / Approved |
-| Jira project key | _____ |
+##Overview <br>
 
+
+##Product Goal <br>
+
+
+## Features
+| Feature | Description | Expected Behaviour |
+|-------|-------|-------|
+| Homepage | _____ | _____ |
+| About Page | _____ | _____ |
+| Services Page| _____ | _____ |
+| Contact Form| _____ | _____ |
+| Blog (Optional) | _____ | _____ |
+| Responsive Design | _____ | _____ |
