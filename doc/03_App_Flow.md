@@ -6,6 +6,6 @@
 ##Key User Journeys <br>
 
 
-## Document Info <br>
+## App Flow Diagram <br>
 
 
