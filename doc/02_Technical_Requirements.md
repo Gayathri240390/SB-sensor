@@ -1,9 +1,9 @@
 # 2. Technical Requirements Document (PRD)
 
-##Overview <br>
+## Overview <br>
 This document outlines the tools, technologies and infrastructure used to build the website. It ensures everyone is aligned on the technical stack and key requirements.
 
-##Technical Goals <br>
+## Technical Goals <br>
 Build a secure, scalable, and maintainable website using modern, widely-supported tools. Ensure good performance, easy maintenance, and room for future growth.
 
 ## Technology Stack
