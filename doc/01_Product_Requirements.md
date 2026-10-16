@@ -1,9 +1,9 @@
 # 1. Product Requirements Document (PRD)
 
-##Overview <br>
+## Overview <br>
 This document outlines the tools, technologies, and infrastructure used to build the website. It ensures everyone is aligned on the technical stack and key requirements.
 
-##Product Goal <br>
+## Product Goal <br>
 To build a business website that clearly presents the services, generates leads, and provides a smooth user experience.
 
 ## Features
